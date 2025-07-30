@@ -12,8 +12,14 @@ people.remove('John')
 people.pop()
 print(people)
 
+# Change
 people[0] = 'Blackman'
 print(people)
 
+# Insert
 people.insert(2, 'Brown')
+print(people)
+
+# Clear
+people.clear()
 print(people)
