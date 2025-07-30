@@ -7,3 +7,7 @@ print(people)
 
 # Remove
 people.remove('John')
+
+# Pop
+people.pop()
+print(people)
