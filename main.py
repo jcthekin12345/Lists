@@ -11,3 +11,6 @@ people.remove('John')
 # Pop
 people.pop()
 print(people)
+
+people[0] = 'Blackman'
+print(people)
