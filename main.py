@@ -14,3 +14,6 @@ print(people)
 
 people[0] = 'Blackman'
 print(people)
+
+people.insert(2, 'Brown')
+print(people)
